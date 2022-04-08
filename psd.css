@@ -1,0 +1,204 @@
+
+.header-nav{
+   height: 46px;
+   font-family: 'Montserrat', sans-serif;
+}
+.headernabbar-text{
+    font-size: 12px;
+    height: 46px;
+    padding: 14px 0px;
+    color: #999999;
+}
+.headernabbar-selector{
+    color: #999999;
+    height: 46px;
+    padding: 12px;
+    font-size: 13px;
+}
+.headernabbar-selector:hover{
+    cursor: pointer;
+    background-color: #00c8c8;
+    color: white;
+}
+.nav-bar-text{
+    font-size: 13px;
+}
+.avenue-text{
+    font-size: 24px
+}
+a{
+    color: black;
+}
+a:hover{
+    cursor: pointer;
+    color: #00c8c8;
+    text-decoration: none;
+}
+.headerbackground-img-signin-page{
+   
+    background-image: url(container.png);
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.leftside-input{
+    width: 535px;
+}
+.headerbackground-img{
+    background-image: url(background.png);
+    width: 100%;
+    height: 450px;
+    background-size: cover;
+}
+.left-col-img5{
+    background-image: url(pic5.png);
+    background-size: cover;
+    height: 450px;
+}
+.end-girl-pic{
+    background-image: url(picend.jpg);
+    background-size: cover;
+}
+.left-col-end-img{
+    height: 350px;
+}
+.headerbackgroundimg-text{
+    font-size: 48px;
+    margin-top: 150px;
+}
+.headerbackgroundimg-text2{
+    font-size: 30px;
+    margin-top: 10px;
+}
+.header-img-button{
+    margin-top: 340px;
+    margin-left: 840px;
+}
+.list-style{
+    display: flex;
+    list-style-type: none;
+    font-size: 13PX;
+}
+.list-spacing{
+    margin-left: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+.btnnext-text2{
+    margin-left: 290px;
+    margin-top: -40px;
+}
+.imgs-sizing{
+    height: 350px;
+}
+.end-img{
+    background-image: url(endimg2.png);
+    background-size: cover;
+}
+.all-buttons{
+    border: 1px solid black;
+    width: 120px;
+    height: 35px;
+}
+.all-buttons:hover{
+    cursor: pointer;
+    background-color: #00c8c8;
+    color: #f8f8f8;
+}
+.ikon{
+    color: #ffff;
+    height: 20px;
+}
+.slector-background-color{
+    background-color: #00c8c8;
+    color: #ffff;
+}
+.ikone2{
+    color: #00c8c8;
+    height: 20px;
+    position: absolute;
+    top: 6px;
+    right: 50px;
+    color: gray;
+}
+.imgs-sizing2{
+    height: 300px;
+}
+.imgs-sizing3{
+    width: 100%;
+    height: 500px;
+    margin-top: -80px;
+}
+.imgs-sizing4{
+    height: 450px;
+}
+.footer-maindiv{
+    margin-top: 140px;
+    background-color: #f8f8f8;
+}
+.div-section{
+ background-color: #f8f8f8;
+}
+.endimg-text{
+    font-size: 35px;
+}
+.endingimg-3{
+    background-image: url(pic9.png);
+    background-size: cover;
+
+}
+.endingimg-2{
+    background-image: url(pic8.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height:400px;
+
+}
+.endingimg-1{
+    background-image: url(pic7.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height:400px;
+}
+.endingimg-text{
+    margin-left: 210px;
+}
+.endingimg-text-2{
+    margin-left: 350px;
+    font-size: 48px;
+}
+.card-text{
+    font-size: 14px;
+}
+.end-pic-girl-text{
+    font-size: 100px;
+    margin-left: 630px;
+    color: #00c8c8;
+    margin-top: -190px;
+}
+.end-pic-girl-text2{
+    font-size: 40px;
+    margin-left: 500px;
+    color: #00c8c8;
+    margin-top: -30px;
+}
+.childdivtext{
+    font-size: 13px;
+    margin-top: -8px;
+}
+.ipsum{
+    margin-left: 200px;
+    margin-top: 20px;
+    font-size: 13px;
+}
+.offimgbutton{
+    height: 50px;
+    width: 130px;
+}
+.offimgbutton:hover{
+    cursor: pointer;
+    background-color: #00c8c8;
+    color: white;
+} 
